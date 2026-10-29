@@ -1,0 +1,21 @@
+IncidentID,Date,Time,Shift,Location,Department,Type,Severity,InjuryStatus,LostTimeInjury,Cause,CorrectiveAction,Status
+I001,2026-01-05,08:30,Day,Drill Site A,Drilling,Near Miss,Low,None,No,Loose cable,Secure cables,Closed
+I002,2026-01-07,22:15,Night,Haul Road,Hauling,Vehicle Collision,High,Minor,No,Poor visibility,Install reflectors,Closed
+I003,2026-01-10,09:45,Day,Workshop,Maintenance,Equipment Failure,Medium,None,No,Overheating,Replace coolant system,Closed
+I004,2026-01-12,23:10,Night,Crusher Plant,Processing,Mechanical Failure,Critical,Major,Yes,Bearing failure,Replace bearing,Open
+I005,2026-01-15,07:50,Day,Exploration Zone,Exploration,Slip/Trip,Low,Minor,No,Wet surface,Add anti-slip mats,Closed
+I006,2026-01-18,21:30,Night,Haul Road,Hauling,Near Miss,Medium,None,No,Fatigue,Rotate shifts,Closed
+I007,2026-01-20,10:00,Day,Workshop,Maintenance,Fire,Critical,Major,Yes,Electrical short,Install fire sensors,Open
+I008,2026-01-22,08:20,Day,Drill Site B,Drilling,Equipment Failure,High,Minor,No,Hydraulic leak,Replace hose,Closed
+I009,2026-01-25,22:40,Night,Crusher Plant,Processing,Explosion,Critical,Major,Yes,Gas buildup,Improve ventilation,Open
+I010,2026-01-28,09:10,Day,Exploration Zone,Exploration,Near Miss,Low,None,No,Loose rock,Inspect area,Closed
+I011,2026-02-02,07:45,Day,Haul Road,Hauling,Vehicle Collision,High,Minor,No,Speeding,Install speed limit signs,Closed
+I012,2026-02-05,23:30,Night,Workshop,Maintenance,Chemical Spill,Medium,None,No,Improper storage,Train staff,Closed
+I013,2026-02-08,08:00,Day,Crusher Plant,Processing,Mechanical Failure,High,Minor,No,Belt tear,Replace belt,Closed
+I014,2026-02-10,22:20,Night,Drill Site A,Drilling,Near Miss,Low,None,No,Fatigue,Increase rest breaks,Closed
+I015,2026-02-13,09:30,Day,Exploration Zone,Exploration,Slip/Trip,Medium,Minor,No,Uneven ground,Level surface,Closed
+I016,2026-02-16,21:50,Night,Haul Road,Hauling,Vehicle Collision,Critical,Major,Yes,Brake failure,Inspect fleet,Open
+I017,2026-02-18,08:10,Day,Workshop,Maintenance,Equipment Failure,Medium,None,No,Overuse,Schedule maintenance,Closed
+I018,2026-02-20,23:00,Night,Crusher Plant,Processing,Explosion,Critical,Major,Yes,Gas leak,Install detectors,Open
+I019,2026-02-22,07:40,Day,Exploration Zone,Exploration,Near Miss,Low,None,No,Loose cable,Secure area,Closed
+I020,2026-02-25,22:30,Night,Drill Site B,Drilling,Fire,High,Minor,No,Overheating,Add cooling system,Closed
